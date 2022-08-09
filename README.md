@@ -10,6 +10,8 @@
 
 📑 Currently working towards the [AWS Certified Developer Associate](https://github.com/Aadam-Ali/cloud-notes/blob/main/aws-certified-developer-associate.md) certification
 
+📚️ Currently reading [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+
 📧 You can contact me on [LinkedIn](https://www.linkedin.com/in/aadam-ali) (_email coming soon_)
 
 #### Programming Languages
