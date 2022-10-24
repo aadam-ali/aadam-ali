@@ -8,11 +8,11 @@
 
 🏢 I am currently working at [HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs) as an **Apprentice DevOps Engineer**
 
-📑 Currently working towards the [AWS Certified Developer Associate](https://github.com/Aadam-Ali/cloud-notes/blob/main/aws-certified-developer-associate.md) certification
+📑 Currently working towards the [AWS Solutions Architect Associate](https://github.com/Aadam-Ali/notes/search?q=saa-c03) certification
 
 📚️ Currently reading [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 
-📧 You can contact me on [LinkedIn](https://www.linkedin.com/in/aadam-ali) (_email coming soon_)
+📧 You can contact me on [LinkedIn](https://www.linkedin.com/in/aadam-ali)
 
 #### Programming Languages
 
