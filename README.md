@@ -8,7 +8,7 @@
 
 🏢 I am currently working at [HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs) as an **Apprentice DevOps Engineer**
 
-📑 Currently working towards the [AWS Solutions Architect Associate](https://github.com/Aadam-Ali/notes/search?q=saa-c03) certification
+📑 Currently working towards the [AWS Solutions Architect Associate](https://github.com/Aadam-Ali/notes/tree/main/aws-saa-c03) certification
 
 📚️ Currently reading [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 
