@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Aadam Ali, A DevOps Engineer</h1>
+<h1 align="center">Aadam Ali ~ DevOps Engineer</h1>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/aadam-ali">
@@ -13,45 +13,26 @@
 
 📑 Currently working towards the [AWS Solutions Architect Associate](https://github.com/Aadam-Ali/notes/tree/main/aws-saa-c03) certification
 
-📚️ Currently reading [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+📚️ Currently reading [Production-Ready Microservices](https://www.oreilly.com/library/view/production-ready-microservices/9781491965962/)
 
 📧 You can contact me on [LinkedIn](https://www.linkedin.com/in/aadam-ali)
 
-#### Programming Languages
+### Programming Languages
 
-<div align="left">
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/bash.svg" alt="Bash" title="Bash" height="40" width="40"></img>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg" alt="Python" title="Python" height="40" width="40"></img>
-</div>
+[![Programming Languages](https://skillicons.dev/icons?i=python,bash&theme=light)](https://skillicons.dev)
 
-#### Operating Systems
+### Operating Systems
 
-<div align="left">
-    <img src="https://camo.githubusercontent.com/f8863581007c966af689a3b607d9eb36ce022285431cf3d322f06fb69c38d316/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30332f4c696e75782d6c6f676f2e706e67" alt="Linux" title="Linux" height="40" width="40"></img>
-    <img src="https://camo.githubusercontent.com/f903efdd3558d099c54fafbce2aff0ccfa5a2a08d325fdd5884822ea4c270f60/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7562756e74752f7562756e74752d69636f6e2e737667" alt="Ubuntu" title="Ubuntu" height="40" width="40"></img>
-</div>
+[![Operating Systems](https://skillicons.dev/icons?i=linux,ubuntu&theme=light)](https://skillicons.dev)
 
-#### DevOps Tools
+### DevOps Tools
 
-<div align="left">
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/amazon.svg" alt="AWS" title="AWS" height="40" width="40"></img>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/terraform.png" alt="Terraform" title="Terraform" height="40" width="40"></img>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/docker.svg" alt="Docker" title="Docker" height="40" width="40"></img>
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" height="40" width="40"></img>
-</div>
+[![DevOps Tools](https://skillicons.dev/icons?i=aws,terraform,docker,jenkins&theme=light)](https://skillicons.dev)
 
-#### Project Management
+### Editors
 
-<div align="left">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" height="40" width="40"></img>
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/github.svg" alt="GitHub" title="GitHub" height="40" width="40"></img>
-    <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" title="Slack" height="40" width="40"></img>
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" title="Jira" height="40" width="40"></img>
-</div>
+[![Editors](https://skillicons.dev/icons?i=vscode,vim&theme=light)](https://skillicons.dev)
 
-#### Editor
+### Project Management
 
-<div align="left">
-    <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/text%20editors/vscode.svg" alt="VSCode" title="VSCode" height="40" width="40"></img>
-    <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" title="Vim" height="40" width="40"></img>
-</div>
+[![Editors](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
