@@ -9,9 +9,9 @@
     </a>
 </div>
 
-🏢 I am currently working at [HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs) as an **Infrastructure Engineer**
+🏢 I am currently working at the [Department for Business and Trade]([https://www.gov.uk/government/organisations/hm-revenue-customs](https://www.gov.uk/government/organisations/department-for-business-and-trade)) as a **Senior Site Reliability Engineer**
 
-📑 Currently working towards the [AWS Solutions Architect Associate](https://github.com/Aadam-Ali/notes/tree/main/aws-saa-c03) certification
+📑 Currently working towards 🤔
 
 📚️ Currently reading [Production-Ready Microservices](https://www.oreilly.com/library/view/production-ready-microservices/9781491965962/)
 
