@@ -1,4 +1,4 @@
-<h1 align="center">Aadam Ali ~ DevOps Engineer</h1>
+<h1 align="center">Aadam Ali ~ Site Reliability Engineer</h1>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/aadam-ali">
